@@ -1,10 +1,10 @@
 # AI_Debate_Moderator
 AI engines that debates with each other.
 
-🎯 Project Overview
+<h2>🎯 Project Overview </h2>
 AI Debate Moderator is a sophisticated, multi-format debate platform powered entirely by AI. It enables fully automated debates between AI agents, with AI moderation, judging, and comprehensive analysis - all running 100% FREE using local LLMs via Ollama.
 
-✨ Key Features
+<h2>✨ Key Features</h2>
 🎤 Multi-Format Debates
 Policy Debates - Structured policy proposal discussions
 
@@ -14,7 +14,7 @@ Lincoln-Douglas - One-on-one value-based philosophical debates
 
 Custom Formats - Create your own debate rules and structures
 
-🤖 AI-Powered Participants
+<h2>🤖 AI-Powered Participants</h2>
 AI Debaters - Multiple AI agents with distinct personalities and argument styles
 
 AI Moderator - Professional moderation keeping debates structured and on-topic
@@ -23,7 +23,7 @@ AI Judge - Impartial scoring and detailed feedback with rubric-based evaluation
 
 Team Debates - Support for multi-agent teams with coordinated strategies
 
-🔧 Technical Capabilities
+<h2>🔧 Technical Capabilities</h2>
 100% FREE - Uses local LLMs via Ollama (no API costs)
 
 Multi-Provider Support - Ollama, OpenAI, Anthropic, OpenRouter
@@ -34,7 +34,7 @@ Memory & Analytics - Comprehensive debate logging and analysis
 
 Vector Search - Semantic search through past debates
 
-💻 Multiple Interfaces
+<h2>💻 Multiple Interfaces</h2>
 CLI Interface - Fast, keyboard-driven terminal interface
 
 Web Interface - Modern web UI with real-time updates
@@ -54,7 +54,7 @@ Export Options - JSON, text, and CSV export formats
 
 Semantic Search - Find debates by topic, arguments, or participants
 
-🚀 Quick Start
+<h2>🚀 Quick Start</h2>
 Prerequisites
 Python 3.8+
 
