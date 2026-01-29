@@ -1,0 +1,49 @@
+TOKEN-AWARE AI DEBATE TRANSCRIPT
+============================================================
+
+Topic: Social media improves communication (debate)
+Date: 2026-01-28 00:30:00
+Agent FOR: Alex (80 token limit)
+Agent AGAINST: Jordan (200 token limit)
+============================================================
+
+Exchange 1: Alex
+Tokens: 19
+Statement: Social media enhances communication by facilitating instant connections and global reach, fostering collaboration and sharing diverse perspectives.
+----------------------------------------
+Exchange 2: Jordan
+Tokens: 13
+Statement: Social media may increase connectivity, but it erodes meaningful communication.
+----------------------------------------
+Exchange 3: Alex
+Tokens: 15
+Statement: Social media allows for real-time interaction, enabling more frequent and varied conversations.
+----------------------------------------
+Exchange 4: Jordan
+Tokens: 16
+Statement: Real-time interaction on social media often lacks depth and can lead to miscommunication.
+----------------------------------------
+Exchange 5: Alex
+Tokens: 10
+Statement: Real-time interaction offers immediacy for problem-solving.
+----------------------------------------
+Exchange 6: Jordan
+Tokens: 15
+Statement: Real-time interaction on social media can lead to rushed decisions and misunderstandings.
+----------------------------------------
+Exchange 7: Alex
+Tokens: 14
+Statement: Real-time interaction fosters quick responses but doesn't mandate rushed decisions.
+----------------------------------------
+Exchange 8: Jordan
+Tokens: 17
+Statement: Quick responses on social media may lead to hasty decisions due to limited reflection time.
+----------------------------------------
+Exchange 9: Alex
+Tokens: 14
+Statement: Real-time responses on social media allow for quick but not rushed decisions.
+----------------------------------------
+Exchange 10: Jordan
+Tokens: 23
+Statement: Quick responses on social media can indeed lead to rushed decisions, as individuals may not have time to fully consider implications.
+----------------------------------------
