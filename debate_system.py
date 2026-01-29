@@ -9,8 +9,9 @@ from dataclasses import dataclass, field
 import aiohttp
 import pyttsx3
 
+
 # ========== CONFIGURATION ==========
-OPENROUTER_API_KEY = "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"  # Replace with your key
+API_KEY = os.getenv("OPENROUTER_API_KEY")  # Replace with your key
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 # ========== DATA CLASSES ==========
@@ -298,7 +299,7 @@ async def main():
     """Main function to run the debate"""
     
     # Get API key from environment or direct input
-    api_key = OPENROUTER_API_KEY
+    api_key = API_KEY
     if api_key.startswith("your-"):
         api_key = input("Enter your OpenRouter API key: ").strip()
     
